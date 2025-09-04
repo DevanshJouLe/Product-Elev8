@@ -19,18 +19,18 @@ Young professionals are overwhelmed by endless online learning options and strug
 - [Google Form (live link)](https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform)  
 - [Survey Responses (Excel)](./Elev8%20Survey%20(Responses).xlsx)  
 
-**Key insights from user survey:**  
-- Overchoice creates confusion  
-- Lack of career-linked roadmaps  
-- Low motivation & accountability  
-- Fear of wasting time/money  
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform">
   <img src="./google_form_preview.png" width="400">
 </a>  
 <a href="./Elev8%20Survey%20(Responses).xlsx">
   <img src="./survey_summary_preview.png" width="400">
 </a>   
+
+**Key insights from user survey:**  
+- Overchoice creates confusion  
+- Lack of career-linked roadmaps  
+- Low motivation & accountability  
+- Fear of wasting time/money  
 
 ---
 
@@ -124,7 +124,7 @@ None addresses the *confidence gap* in choosing the right next skill.
 ## Final Deck  
 
 <a href="./deck/Product%20Elev8.pdf">
-  <img src="./deck/Deck%20Preview.png" width="500">
+  <img src="./deck_preview.png" width="500">
 </a>  
 
 👉 [View Full Deck (PDF)](./deck/Product%20Elev8.pdf)
