@@ -61,13 +61,14 @@ None addresses the *confidence gap* in choosing the right next skill.
 ---
 
 ## 6. User Flow & Wireframes  
+
 1. User sets career goal (next 6–12 months).  
 2. System generates a validated roadmap.  
 3. User takes first micro-action → motivation via small wins.  
 
-- [![Wireframe 1](./Wireframes%201.png)](./Wireframes%201.png)
-- [![Wireframe 1](./Wireframes%202.png)](./Wireframes%202.png) 
-- [![Wireframe 1](./Wireframes%203.png)](./Wireframes%203.png)
+<a href="./Wireframes%201.png"><img src="./Wireframes%201.png" width="400"></a>  
+<a href="./Wireframes%202.png"><img src="./Wireframes%202.png" width="400"></a>  
+<a href="./Wireframes%203.png"><img src="./Wireframes%203.png" width="400"></a>  
 
 ---
 
@@ -77,8 +78,8 @@ None addresses the *confidence gap* in choosing the right next skill.
 - Human-in-the-loop validation for early roadmaps ensures **trust + accuracy**  
 - Modular design to scale from a few roles (e.g., Product Management, Data Science) → broader adoption  
 
-[![Roadmap Creation Architecture](./Roadmap%20Creation%20Architecture.png)](./Roadmap%20Creation%20Architecture.png)  
-[![System Architecture](./System%20Architecture.png)](./System%20Architecture.png) 
+<a href="./Roadmap%20Creation%20Architecture.png"><img src="./Roadmap%20Creation%20Architecture.png" width="500"></a>  
+<a href="./System%20Architecture.png"><img src="./System%20Architecture.png" width="500"></a>  
 
 ---
 
