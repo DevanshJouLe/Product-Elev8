@@ -4,14 +4,15 @@
 
 ## 1. Problem Statement  
 Young professionals are overwhelmed by endless online learning options and struggle to answer a simple but high-stakes question:  **“What should I learn next?”**
-[Problem Statement (Visily Link)](Problem_Statement.docx)  
+[Problem Statement](/blob/main/Problem_Statement.docx)
 
 ---
 
 ## 2. Market Assessment  
-- Conducted a **Google Form survey** with early-career professionals (responses linked in `/research`).  
+- Conducted a **Google Form survey** with early-career professionals (responses linked in `/Elev8%20Survey%20(Responses).xlsx`).
+- Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform
 - Key insights from user survey:  
-  - Overchoice → confusion and paralysis  
+  - Overchoice creates confusion
   - Lack of career-linked roadmaps  
   - Low motivation & accountability  
   - Fear of wasting time/money  
@@ -25,7 +26,7 @@ Studied major EdTech players:
 - **upGrad** – strong university tie-ups, but expensive and time-heavy  
 - **Simplilearn** – strong industry partnerships, but inconsistent quality  
 
-📌 None address the *confidence gap* in choosing the right next skill.  
+None addresses the *confidence gap* in choosing the right next skill.  
 
 ---
 
@@ -33,17 +34,17 @@ Studied major EdTech players:
 - **Market size**: $10.4B EdTech industry in India by 2025, 19.9% CAGR  
 - **True Problem**: Not lack of content, but **loss of confidence** in directing career growth.  
 - Early-career professionals (25–34 yrs, 2–7 yrs experience) feel:  
-  - Paralyzed by options  
+  - Paralysed by options  
   - Fearful of wasting time/money  
   - Unsure of ROI on learning investments  
 
 ---
 
-## 5. Defining MVP & Features  
+## 5. Defining MVP & Features (USP)
 **MVP Goal:** Provide a **clear, personalized, validated roadmap** that eliminates decision paralysis and builds trust.  
 
 - **Must-Haves:**  
-  - Personalized Skill Roadmap  
+  - Personalised Skill Roadmap  
   - Curated Micro-Plan  
   - Expert & Peer Validation  
 - **Should-Haves:**  
@@ -60,7 +61,9 @@ Studied major EdTech players:
 2. System generates validated roadmap.  
 3. User takes first micro-action → motivation via small wins.  
 
-👉 [Wireframes & User Flow (Visily Link)](https://app.visily.ai/projects/0fec2815-0f49-4ff6-9458-715b5033dd1d/boards/2146234)  
+- [Wireframes & User Flow 1]([blob/main/Wireframes%201.png))
+- [Wireframes & User Flow 2]([blob/main/Wireframes%202.png))
+- [Wireframes & User Flow 3]([blob/main/Wireframes%203.png))
 
 ---
 
@@ -69,6 +72,8 @@ Studied major EdTech players:
 - Human-in-the-loop validation for early roadmaps ensures **trust + accuracy**  
 - Modular design to scale from a few roles (e.g., Product Management, Data Science) → broader adoption  
 
+- [Roadmap Creation Architecture](blob/main/Roadmap%20Creation%20Architecture.png))
+- [System Architecture](blob/main/System%20Architecture.png))
 ---
 
 ## 8. Metrics & Monetisation  
@@ -93,15 +98,12 @@ Studied major EdTech players:
 **Risk Mitigation:**  
 - Users see roadmap but don’t start → make 1st task *very easy*  
 - Roadmaps not trusted → initial human validation  
-- Drop-offs post 1 skill → proactive nudges for “next step”  
+- Drop-offs post one skill → proactive nudges for “next step”  
 - Competitor clones → double down on **community + peer success stories**  
 
 ---
 
-## 📎 Supporting Artefacts  
+## Final Deck
 - [Deck (PDF)](./deck/Product%20Elev8.pdf)  
-- [Survey Responses](./research/Elev8%20Survey%20Responses.xlsx)  
-- [Problem Statement](./research/Problem_Statement.docx)  
-- [Wireframes](https://app.visily.ai/projects/0fec2815-0f49-4ff6-9458-715b5033dd1d/boards/2146234)  
 
 ---
