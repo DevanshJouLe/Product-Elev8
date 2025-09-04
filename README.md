@@ -6,20 +6,31 @@
 Young professionals are overwhelmed by endless online learning options and struggle to answer a simple but high-stakes question:  
 **“What should I learn next?”**
 
-- [Problem Statement](./Problem_Statement.docx)
+<a href="./Problem_Statement.docx">
+  <img src="./assets/problem_statement_preview.png" width="500">
+</a>  
+
+👉 [Read Full Problem Statement](./Problem_Statement.docx)
 
 ---
 
 ## 2. Market Assessment  
-- Conducted a **Google Form survey** with early-career professionals (responses linked in repo).  
-- [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform)  
-- [Survey Responses](./Elev8%20Survey%20(Responses).xlsx)  
+- Conducted a **Google Form survey** with early-career professionals.  
+- [Google Form (live link)](https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform)  
+- [Survey Responses (Excel)](./Elev8%20Survey%20(Responses).xlsx)  
 
 **Key insights from user survey:**  
 - Overchoice creates confusion  
 - Lack of career-linked roadmaps  
 - Low motivation & accountability  
 - Fear of wasting time/money  
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform">
+  <img src="./assets/google_form_preview.png" width="400">
+</a>  
+<a href="./Elev8%20Survey%20(Responses).xlsx">
+  <img src="./assets/survey_summary_preview.png" width="400">
+</a>   
 
 ---
 
@@ -111,6 +122,11 @@ None addresses the *confidence gap* in choosing the right next skill.
 ---
 
 ## Final Deck  
-- [Deck (PDF)](./deck/Product%20Elev8.pdf)  
+
+<a href="./deck/Product%20Elev8.pdf">
+  <img src="./deck/Deck%20Preview.png" width="500">
+</a>  
+
+👉 [View Full Deck (PDF)](./deck/Product%20Elev8.pdf)
 
 ---
