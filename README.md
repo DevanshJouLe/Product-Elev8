@@ -65,19 +65,20 @@ None addresses the *confidence gap* in choosing the right next skill.
 2. System generates a validated roadmap.  
 3. User takes first micro-action → motivation via small wins.  
 
-- [Wireframe 1](./Wireframes%201.png)  
-- [Wireframe 2](./Wireframes%202.png)  
-- [Wireframe 3](./Wireframes%203.png)  
+- [![Wireframe 1](./Wireframes%201.png)](./Wireframes%201.png)
+- [![Wireframe 1](./Wireframes%202.png)](./Wireframes%202.png) 
+- [![Wireframe 1](./Wireframes%203.png)](./Wireframes%203.png)
 
 ---
 
 ## 7. Architecture & Data Flow  
+
 - **Data Flow:** Goal input → AI/curated roadmap → Micro-task plan → Progress tracking  
 - Human-in-the-loop validation for early roadmaps ensures **trust + accuracy**  
 - Modular design to scale from a few roles (e.g., Product Management, Data Science) → broader adoption  
 
-- [Roadmap Creation Architecture](./Roadmap%20Creation%20Architecture.png)  
-- [System Architecture](./System%20Architecture.png)  
+[![Roadmap Creation Architecture](./Roadmap%20Creation%20Architecture.png)](./Roadmap%20Creation%20Architecture.png)  
+[![System Architecture](./System%20Architecture.png)](./System%20Architecture.png) 
 
 ---
 
