@@ -7,7 +7,7 @@ Young professionals are overwhelmed by endless online learning options and strug
 **“What should I learn next?”**
 
 <a href="./Problem_Statement.docx">
-  <img src="./assets/problem_statement_preview.png" width="500">
+  <img src="./problem_statement_preview.png" width="500">
 </a>  
 
 👉 [Read Full Problem Statement](./Problem_Statement.docx)
@@ -26,10 +26,10 @@ Young professionals are overwhelmed by endless online learning options and strug
 - Fear of wasting time/money  
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform">
-  <img src="./assets/google_form_preview.png" width="400">
+  <img src="./google_form_preview.png" width="400">
 </a>  
 <a href="./Elev8%20Survey%20(Responses).xlsx">
-  <img src="./assets/survey_summary_preview.png" width="400">
+  <img src="./survey_summary_preview.png" width="400">
 </a>   
 
 ---
