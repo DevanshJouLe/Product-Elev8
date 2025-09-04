@@ -3,19 +3,23 @@
 ---
 
 ## 1. Problem Statement  
-Young professionals are overwhelmed by endless online learning options and struggle to answer a simple but high-stakes question:  **“What should I learn next?”**
-[Problem Statement](/blob/main/Problem_Statement.docx)
+Young professionals are overwhelmed by endless online learning options and struggle to answer a simple but high-stakes question:  
+**“What should I learn next?”**
+
+- [Problem Statement](./Problem_Statement.docx)
 
 ---
 
 ## 2. Market Assessment  
-- Conducted a **Google Form survey** with early-career professionals (responses linked in `/Elev8%20Survey%20(Responses).xlsx`).
-- Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform
-- Key insights from user survey:  
-  - Overchoice creates confusion
-  - Lack of career-linked roadmaps  
-  - Low motivation & accountability  
-  - Fear of wasting time/money  
+- Conducted a **Google Form survey** with early-career professionals (responses linked in repo).  
+- [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform)  
+- [Survey Responses](./Elev8%20Survey%20(Responses).xlsx)  
+
+**Key insights from user survey:**  
+- Overchoice creates confusion  
+- Lack of career-linked roadmaps  
+- Low motivation & accountability  
+- Fear of wasting time/money  
 
 ---
 
@@ -40,7 +44,7 @@ None addresses the *confidence gap* in choosing the right next skill.
 
 ---
 
-## 5. Defining MVP & Features (USP)
+## 5. Defining MVP & Features (USP)  
 **MVP Goal:** Provide a **clear, personalized, validated roadmap** that eliminates decision paralysis and builds trust.  
 
 - **Must-Haves:**  
@@ -58,12 +62,12 @@ None addresses the *confidence gap* in choosing the right next skill.
 
 ## 6. User Flow & Wireframes  
 1. User sets career goal (next 6–12 months).  
-2. System generates validated roadmap.  
+2. System generates a validated roadmap.  
 3. User takes first micro-action → motivation via small wins.  
 
-- [Wireframes & User Flow 1]([blob/main/Wireframes%201.png))
-- [Wireframes & User Flow 2]([blob/main/Wireframes%202.png))
-- [Wireframes & User Flow 3]([blob/main/Wireframes%203.png))
+- [Wireframe 1](./Wireframes%201.png)  
+- [Wireframe 2](./Wireframes%202.png)  
+- [Wireframe 3](./Wireframes%203.png)  
 
 ---
 
@@ -72,8 +76,9 @@ None addresses the *confidence gap* in choosing the right next skill.
 - Human-in-the-loop validation for early roadmaps ensures **trust + accuracy**  
 - Modular design to scale from a few roles (e.g., Product Management, Data Science) → broader adoption  
 
-- [Roadmap Creation Architecture](blob/main/Roadmap%20Creation%20Architecture.png))
-- [System Architecture](blob/main/System%20Architecture.png))
+- [Roadmap Creation Architecture](./Roadmap%20Creation%20Architecture.png)  
+- [System Architecture](./System%20Architecture.png)  
+
 ---
 
 ## 8. Metrics & Monetisation  
@@ -103,7 +108,7 @@ None addresses the *confidence gap* in choosing the right next skill.
 
 ---
 
-## Final Deck
+## Final Deck  
 - [Deck (PDF)](./deck/Product%20Elev8.pdf)  
 
 ---
