@@ -17,7 +17,7 @@ Young professionals are overwhelmed by endless online learning options and strug
 ## 2. Market Assessment  
 - Conducted a **Google Form survey** with early-career professionals.  
 - [Google Form (live link)](https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform)  
-- [Survey Responses (Excel)](./Elev8%20Survey%20(Responses).xlsx)  
+- [Survey Responses (Excel)](./Elev8%20Survey%20(Responses).xlsx)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh0pnseQ7TPNVCm63-X1BYcYTCT5ml1yFejrHv8BQSIEN4-A/viewform">
   <img src="./google_form_preview.png" width="400">
@@ -72,6 +72,8 @@ None addresses the *confidence gap* in choosing the right next skill.
 ---
 
 ## 6. User Flow & Wireframes  
+
+- [Visily Wireframes](https://app.visily.ai/projects/0fec2815-0f49-4ff6-9458-715b5033dd1d/boards/2146082)
 
 1. User sets career goal (next 6–12 months).  
 2. System generates a validated roadmap.  
