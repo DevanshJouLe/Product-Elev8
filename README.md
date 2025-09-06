@@ -123,10 +123,10 @@ None addresses the *confidence gap* in choosing the right next skill.
 
 ## Final Deck  
 
-<a href="./deck/Product%20Elev8.pdf">
+<a href="./Product%20Elev8.pdf">
   <img src="./deck_preview.png" width="500">
 </a>  
 
-👉 [View Full Deck (PDF)](./deck/Product%20Elev8.pdf)
+👉 [View Full Deck (PDF)](./Product%20Elev8.pdf)
 
 ---
